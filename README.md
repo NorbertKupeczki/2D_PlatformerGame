@@ -1,1 +1,3 @@
-2D_PlatformerGame
+2D Platformer Game
+
+The source files location: ..\apps\ASGEGame\
